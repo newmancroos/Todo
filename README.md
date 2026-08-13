@@ -111,3 +111,5 @@ TodoApi/
 ├── appsettings.json
 └── TodoApi.csproj
 ```
+
+[![Build and Test — TodoApi](https://github.com/newmancroos/Todo/actions/workflows/BuildAndTest.yml/badge.svg)](https://github.com/newmancroos/Todo/actions/workflows/BuildAndTest.yml)
