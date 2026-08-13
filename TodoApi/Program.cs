@@ -26,7 +26,7 @@ builder.Services.AddSwaggerGen(c =>
         Description = "ASP.NET Core Web API for managing Todo items with SQL Server"
     });
 });
-
+ 
 // ── App pipeline ───────────────────────────────────────────────────────────────
 
 var app = builder.Build();
