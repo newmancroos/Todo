@@ -1,5 +1,7 @@
 # Todo API — Setup Guide
-[![Build and Test — TodoApi](https://github.com/newmancroos/Todo/actions/workflows/BuildAndTest.yml/badge.svg)](https://github.com/newmancroos/Todo/actions/workflows/BuildAndTest.yml)
+
+[![Build and Test — TodoApi](https://github.com/newmancroos/Todo/actions/workflows/BuildAndTest.yml/badge.svg?branch=main)](https://github.com/newmancroos/Todo/actions/workflows/BuildAndTest.yml)
+
 ## Prerequisites
 - .NET 8 SDK
 - SQL Server (local or remote) — LocalDB, SQL Server Express, or full instance all work
